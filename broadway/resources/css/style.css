@@ -1,0 +1,46 @@
+html {text-align: center;
+      text-family: helvetica;}
+
+
+.header {font-family: helvetica;
+        font-weight: bold;
+        color: white;
+        background-image: url(../../resources/images/backgroundbuilding.png); background-repeat: no-repeat;}
+
+.menu li {font-size: 18px;
+          text-align: center;
+         font-family: helvetica;
+        padding-bottom: 10px;
+        list-style-type: none;}
+
+.menu li a {color: white;
+            text-align: center;}
+
+h2 {font-size: 70px;}
+
+.process {text-align: center;
+         font-size: 32px;
+         font-weight: bold;
+         font-family: helvetica;}
+
+.identify {font-size: 32px;
+           font-weight: bold;
+            font-family: helvetica;}
+
+.focus {font-size: 14px;
+        font-family: helvetica;}
+
+.designed {font-family: helvetica;
+           font-size: 23px;
+           font-weight: bold;
+           color: white;
+           background-image: url(../../resources/images/backgroundbuilding.png); background-repeat: no-repeat;}
+
+.footer {font-family: helvetica;
+         font-size: 11px;
+         color: white;
+         background-color: dimgrey;
+         text-align: left;}
+
+
+a {color: white;}
